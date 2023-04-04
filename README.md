@@ -1,5 +1,5 @@
 # wordle-labIII
-University project, creation of 'Wordle' game as client-server.
+* University project, creation of 'Wordle' game as client-server. *
 
 
 
